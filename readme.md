@@ -65,5 +65,5 @@ python main.py --lr 0.003 --num_workers 10 --gpu 0
 
 |          | MRR@5  | HITS@5 |
 | -------- |--------|--------|
-| Baseline | 0.2398 | 0.3447 |
+| Baseline | 0.24646 | 0.34941 |
 
